@@ -4,6 +4,8 @@ import "./styles/style.css";
 export class LoginComponent extends React.Component {
     constructor (props: any) {
         super(props);
+
+        this.state = {}
     }
 
     render() {

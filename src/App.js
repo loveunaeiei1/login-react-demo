@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import { LabelComponent } from "./components/label-component/LabelComponent";
 import { LoginComponent } from "./components/login-component/LoginComponent";

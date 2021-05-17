@@ -2,9 +2,9 @@ import React from "react";
 
 export class LabelComponent extends React.Component {
 
-    constructor(props: any) {
-        super(props);
-    }
+    // constructor(props: any) {
+    //     super(props);
+    // }
       
     render() {
         return (
